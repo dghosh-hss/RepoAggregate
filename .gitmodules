@@ -1,0 +1,6 @@
+[submodule "RepoA"]
+	path = RepoA
+	url = git@github.com:dghosh-hss/RepoA.git
+[submodule "RepoB"]
+	path = RepoB
+	url = https://github.com/dghosh-hss/RepoB.git
